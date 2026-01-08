@@ -1,32 +1,27 @@
 ## About
 
-I build machine learning and security focused software with an emphasis on real world reliability.  
-My work spans sentiment analysis models secure authentication systems and encrypted backends.  
-I am especially interested in the intersection of AI robustness security and deployment at scale.
-
-## What I Work On
-
-• Applied ML projects including custom sentiment models  
-• Secure authentication password managers and cryptography driven systems  
-• Backend heavy services with strong security guarantees  
-• Experimenting with ML reliability performance and misuse resistance  
+I build machine learning and security focused software with an emphasis on real world reliability and deployment.  
+My projects span sentiment analysis secure authentication encrypted storage and backend systems.
 
 ## Tech Stack
 
-**Core**  
-Python Java C++ JavaScript SQL  
+**Languages**  
+Python Java C++ JavaScript SQL HTML CSS  
 
-**ML**  
+**Machine Learning**  
 PyTorch NumPy Pandas scikit learn Matplotlib  
 
-**Backend**  
-Flask Django FastAPI React  
+**Backend & Web**  
+Flask Django FastAPI React Bootstrap  
 
 **Security**  
-Argon2 JWT Cryptography Secure Auth  
+Argon2 JWT Cryptography Secure Authentication  
 
-**Data & Cloud**  
-SQLite PostgreSQL GCP AWS  
+**Databases**  
+PostgreSQL SQLite  
+
+**Cloud & DevOps**  
+GCP AWS Linux Bash  
 
 **Tools**  
-Git GitHub Linux Bash
+Git GitHub
