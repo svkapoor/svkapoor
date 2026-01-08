@@ -4,8 +4,9 @@ I build machine learning and security-focused software focusing on end to end de
 Some of my projects span sentiment analysis, secure authentication, encrypted storage, and backend systems.
 
 ## 📱 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samar-veer-kapoor/)
-[![Email](https://img.shields.io/badge/Email-%23000000.svg?logo=maildotru&logoColor=white)](skapoor86@gatech.edu)
+🔗 [LinkedIn](https://www.linkedin.com/in/samar-veer-kapoor/)  
+📧 [Email](mailto:samar@example.com)
+
 
 ## 💻 Tech Stack
 
