@@ -5,7 +5,7 @@ Some of my projects span sentiment analysis, secure authentication, encrypted st
 
 ## 📱 Socials
 🔗 [LinkedIn](https://www.linkedin.com/in/samar-veer-kapoor/)  
-📧 skapoor86@gatech.edu
+skapoor86@gatech.edu
 
 
 ## 💻 Tech Stack
