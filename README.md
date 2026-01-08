@@ -1,7 +1,11 @@
-## About
+## ⭐ About
 
-I build machine learning and security focused software with an emphasis on real world reliability and deployment.  
-My projects span sentiment analysis secure authentication encrypted storage and backend systems.
+I build machine learning and security-focused software focusing on end to end deployment.  
+Some of my projects span sentiment analysis, secure authentication, encrypted storage, and backend systems.
+
+## 📱 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samar-veer-kapoor/)
+[![Email](https://img.shields.io/badge/Email-%23000000.svg?logo=maildotru&logoColor=white)](skapoor86@gatech.edu)
 
 ## 💻 Tech Stack
 
